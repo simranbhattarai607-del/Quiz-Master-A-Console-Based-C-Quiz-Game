@@ -34,5 +34,13 @@ Whether you're looking to sharpen your C++ skills or just challenge yourself wit
 3. Compile the source code using a C++ compiler (e.g., g++, Visual Studio, Code::Blocks).
    ```bash
    g++ quiz_game.cpp -o quiz_game
+   
+## CONTRIBUTERS
 
-#  DVKSJDNVSOUI
+#  SIMRAN BHATTARAI- ADTU/0/2025-28/BCAM/017
+# INTOLI AWOMI- ADTU/0/2025-28/BCAM/032
+# DIPSHIKHA THAOSEN- ADTU/0/2025-28/BCAM/049
+# ABANTIKA DAS- ADTU/0/2025-28/BCAM/044
+# SANIA SUMAN- ADTU/0/2025-28/BCAM/040
+# JAHIDUL SEKH- ADTU/0/2025-28/BCAM/031
+
